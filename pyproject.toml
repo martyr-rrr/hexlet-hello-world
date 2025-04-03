@@ -1,0 +1,5 @@
+[project]
+name = "hexlet-hello-world"
+version = "0.1.0"
+description = "My first Python project for Hexlet"
+authors = [{name = "Your Name", email = "your@email.com"}]
